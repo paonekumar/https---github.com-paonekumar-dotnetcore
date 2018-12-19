@@ -1,0 +1,14 @@
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\bin\Debug\netcoreapp2.1\OrderFood.deps.json
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\bin\Debug\netcoreapp2.1\OrderFood.runtimeconfig.json
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\bin\Debug\netcoreapp2.1\OrderFood.runtimeconfig.dev.json
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\bin\Debug\netcoreapp2.1\OrderFood.dll
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\bin\Debug\netcoreapp2.1\OrderFood.pdb
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.csprojAssemblyReference.cache
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.csproj.CoreCompileInputs.cache
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.RazorAssemblyInfo.cache
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.RazorAssemblyInfo.cs
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.AssemblyInfoInputs.cache
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.AssemblyInfo.cs
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.RazorTargetAssemblyInfo.cache
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.dll
+C:\Users\pavan.komaragiri\Documents\GitHub\https---github.com-paonekumar-dotnetcore.git\OrderFood\OrderFood\obj\Debug\netcoreapp2.1\OrderFood.pdb
